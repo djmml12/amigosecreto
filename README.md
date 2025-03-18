@@ -35,6 +35,9 @@ Un pequeño juego de "Amigo Secreto" desarrollado en JavaScript, que permite agr
 2. Abre el archivo `index.html` en un navegador web.
 
 ## Vista previa 
+Al abrir el archivo index.html
+![Interfaz del juego](https://github.com/djmml12/amigosecreto/blob/main/assets/1.png?raw=true)
+
 
 
 ## Contribuciones
