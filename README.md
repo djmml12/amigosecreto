@@ -39,12 +39,25 @@ Al abrir el archivo index.html
 
 ![Interfaz del juego](https://github.com/djmml12/amigosecreto/blob/main/assets/1.png?raw=true)
 
-Alerta al comprobar que no se ingreso ningun amigo 
 
-![Interfaz del juego]([https://github.com/djmml12/amigosecreto/blob/main/assets/1.png?raw=true](https://github.com/djmml12/amigosecreto/blob/main/assets/2.png?raw=true)
+Alerta al comprobar que no se ingreso ningun amigo. 
+
+![Interfaz del juego](https://github.com/djmml12/amigosecreto/blob/main/assets/2.png?raw=true)
 
 
+Alerta la intentar realizar el sorteo sin ningun amigo.
 
+![Interfaz del juego](https://github.com/djmml12/amigosecreto/blob/main/assets/3.png?raw=true)
+
+
+Se muestra en la interfaz el listado de amigos.
+
+![Interfaz del juego](https://github.com/djmml12/amigosecreto/blob/main/assets/4.png?raw=true)
+
+
+Con las condiciones cumplidas se realiza el sorteo y se muestra al amigo secreto.
+
+![Interfaz del juego](https://github.com/djmml12/amigosecreto/blob/main/assets/6.png?raw=true)
 
 
 ## Contribuciones
