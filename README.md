@@ -45,5 +45,5 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente
 
 ---
 
-**Autor:** [Tu Nombre]
+**Autor:** [David Merida]
 
