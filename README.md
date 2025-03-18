@@ -36,7 +36,14 @@ Un pequeño juego de "Amigo Secreto" desarrollado en JavaScript, que permite agr
 
 ## Vista previa 
 Al abrir el archivo index.html
+
 ![Interfaz del juego](https://github.com/djmml12/amigosecreto/blob/main/assets/1.png?raw=true)
+
+Alerta al comprobar que no se ingreso ningun amigo 
+
+![Interfaz del juego]([https://github.com/djmml12/amigosecreto/blob/main/assets/1.png?raw=true](https://github.com/djmml12/amigosecreto/blob/main/assets/2.png?raw=true))
+
+
 
 
 
