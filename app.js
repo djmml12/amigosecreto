@@ -14,10 +14,10 @@ function agregarAmigo() {
         input.value = "";
 
         // listado de amigos                                             
-        let listaAmigos = document.que
+        let listaAmigos = document.querySelector("#listaAmigos"); // selecciona el contenedor
 
-        // Crear un <div> por cada amigo en el array y agregarlo a la lista
-        amigos.forEach(function(amigo) {
+        //crea un <div> por cada amigo en el array
+        amigos.forEach(function(amigo){}
             let divAmigo = document.createElement("div"); // Crear un <div>
             divAmigo.textContent = amigo; // Asignar el nombre del amigo al <div>
             listaAmigos.appendChild(divAmigo); // Agregar el <div> al contenedor
