@@ -16,26 +16,12 @@ function agregarAmigo() {
         // listado de amigos                                             
         let listaAmigos = document.querySelector("#listaAmigos"); // selecciona el contenedor
 
-        //crea un <div> por cada amigo en el array
+        // crea un <div> por cada amigo en el array
         amigos.forEach(function(amigo){
-            let divAmigo = document.createElement("div"); // Crear un <div>
-            divAmigo.textContent = amigo; // Asignar el nombre del amigo al <div>
-            listaAmigos.appendChild(divAmigo); // Agregar el <div> al contenedor
+            let divAmigo = document.createElement("div");
+            divAmigo.textContent = amigo; //agrega el amigo al <div>
+            listaAmigos.appendChild(divAmigo); //<div> en el contenedor
         });
     }
 }
 
-// Función para sortear un amigo secreto
-function sortearAmigo() {
-    if (amigos.length === 0) {
-        alert("Por favor, agrega al menos un amigo antes de hacer el sorteo");
-    } else {
-        // Elegir un amigo al azar del array de amigos
-        let indiceAleatorio = Math.floor(Math.random() * amigos.length);
-        let amigoSorteado = amigos[indiceAleatorio];
-
-        // Mostrar el nombre del amigo secreto
-        let resultadoHTML = document.querySelector("#resultado");
-        resultadoHTML.innerHTML = `¡Tu amigo secreto es: ${amigoSorteado}!`; // Mostrar el resultado en el HTML
-    }
-}
